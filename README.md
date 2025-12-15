@@ -25,13 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=DivyanshSharma1210&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-## ✍️ Featured Articles
-
-[![Medium Article](https://img.shields.io/badge/Medium-Async%20vs%20Defer%20in%20JavaScript-black?style=for-the-badge&logo=medium)](https://medium.com/@divyanshsharma122003/understanding-script-async-and-defer-in-javascript-78ba8459cdf5)
-
-[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Load%20Balancers%20Explained-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/load-balancers-unlocked-backbone-scalable-systems-dibyansh-sharma-8aqkc/?trackingId=hcknosA9QjCMfGTkNGynOA%3D%3D)
-
-[![LinkedIn Article](https://img.shields.io/badge/LinkedIn-Latency%20in%20System%20Design-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/pulse/latency-system-design-dibyansh-sharma-whatc/?trackingId=3f07YJ5NRuygwdCi02x90Q%3D%3D)
 
 
 
